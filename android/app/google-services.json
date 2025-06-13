@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482843736173",
+    "project_id": "jordanian-driving-test-theory",
+    "storage_bucket": "jordanian-driving-test-theory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482843736173:android:ae7b48965285c5094fe764",
+        "android_client_info": {
+          "package_name": "com.tatweercom.alqemahapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-GtOwYVJZ8dDo5r3OxIySqsneP6cYAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
